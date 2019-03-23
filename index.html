@@ -9,9 +9,21 @@
                 max-width: 100%;
                 vertical-align: top;
             }
+            img#responsive {
+                display: none;
+            }
+            @media screen and (max-width: 768px) {
+                img#responsive {
+                    display: block;
+                }
+                img {
+                    display: none;
+                }
+            }
         </Style>
     </head>
     <body>
+        <img src="files/invie-responsive.webp" alt="responsive invie" id="responsive">
         <img src="files/header.jpg" alt="header">
         <img src="files/hero.webp" alt="hero">
         <img src="files/acustica.jpg" alt="acústica">
