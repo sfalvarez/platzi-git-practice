@@ -1,3 +1,4 @@
-# platzi-git-pratice
-Repository used to learn the concepts taught in the Platzi git course
-@platzi
+# invie
+Las guitarras más locas
+
+https://sfalvarez.github.io/platzi-git-practice/
